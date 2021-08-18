@@ -3,6 +3,7 @@
 	"author": "Irf Swaggy",
 	"description": "A project that is swaggy",
 	"keywords": ["revolutionary", "mangos", "freecodecamp"],
+	"license": "MIT",
 	"dependencies": {
 		"express": "^4.14.0"
 	},

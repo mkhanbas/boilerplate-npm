@@ -1,6 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "Irf Swaggy",
+	"description": "A project that is swaggy",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
